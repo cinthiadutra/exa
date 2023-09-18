@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "236383996818",
+    "firebase_url": "https://todoexa-default-rtdb.firebaseio.com",
+    "project_id": "todoexa",
+    "storage_bucket": "todoexa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236383996818:android:f10f09ab685c21716d4f4b",
+        "android_client_info": {
+          "package_name": "com.example.todo_exa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFHIuLDCpwIkMbnS4tycQCOifd6L9kG9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

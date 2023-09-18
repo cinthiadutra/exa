@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://todoexa-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">236383996818</string>
+    <string name="google_api_key" translatable="false">AIzaSyCFHIuLDCpwIkMbnS4tycQCOifd6L9kG9c</string>
+    <string name="google_app_id" translatable="false">1:236383996818:android:f10f09ab685c21716d4f4b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCFHIuLDCpwIkMbnS4tycQCOifd6L9kG9c</string>
+    <string name="google_storage_bucket" translatable="false">todoexa.appspot.com</string>
+    <string name="project_id" translatable="false">todoexa</string>
+</resources>
